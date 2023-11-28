@@ -44,12 +44,12 @@ class Rectangle:
     @property
     def area(self):
         """Will return area"""
-        return self.__width*self.__height
+        return (self.__width * self.__height)
     
     @property
     def perimeter(self):
         """Will retun perimeter of rectangle"""
         if self.__height==0 or self.__width==0:
-            return 0
+            return (0)
         else :
-            return 2*(self.__width + self.__height)
+            return ((self.__width * 2) + (self.__height * 2))
