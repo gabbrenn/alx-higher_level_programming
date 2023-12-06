@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Define write_file function"""
+"""Define append_write function"""
 
 
 def append_write(filename="", text=""):
-    """Will append to the end of file"""
+    """Append to the end of the file"""
     with open(filename, 'a', encoding='utf-8') as file:
         file.write(text)
     return len(text)
