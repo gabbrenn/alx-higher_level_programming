@@ -1,0 +1,3 @@
+. Python - Almost a Circle
+
+Embark on a Python journey with "Almost a Circle," a project encompassing key concepts in object-oriented programming. Dive into the world of Python and explore fundamental elements, including imports, exception handling, classes, private attributes, getters/setters, class methods, static methods, inheritance, unittesting, and file I/O. This project is designed to deepen your understanding of Python's versatility, encapsulation, and modular design. Elevate your coding skills as you navigate through the intricacies of these essential Python features and build a foundation for more advanced programming challenges.
