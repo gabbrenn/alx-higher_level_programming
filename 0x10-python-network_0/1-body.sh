@@ -1,4 +1,3 @@
 #!/bin/bash
 # takes in a URL, sends a GET request to the URL,
-#and displays the body of the response
-curl -sfl "$1" -X GET
+curl -sX GET "$1" -L 200
